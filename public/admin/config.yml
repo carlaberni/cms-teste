@@ -1,5 +1,6 @@
 backend:
   name: git-gateway
+  repo: githubcarlaberni/cms-teste
   branch: master
 media_folder: public/images
 public_folder: /images
